@@ -16,14 +16,14 @@ const Productdata =[
     },
     {
         img:"/images/P9.webp",
-        title:"EVERLASTING LEAD PENCIL",
+        title:"EVERLASTING PENCIL",
         desc:"Pencil",
         price:"150",
     },
     {
         img:"/images/J12.webp",
         title:"SANRIO HIGHLIGHTER SET",
-        desc:"3 Highlighters in a set",
+        desc:"3 Highlighters ",
         price:"650",
     },
     {

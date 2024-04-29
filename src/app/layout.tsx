@@ -4,6 +4,8 @@ import "./globals.css";
 import Header from "@/components/Header";
 import HeaderMain from "@/components/HeaderMain";
 import Navbar from "@/components/Navbar";
+import AboutUs from "@/components/AboutUs";
+import Mobnavbar from "@/components/Mobnavbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
