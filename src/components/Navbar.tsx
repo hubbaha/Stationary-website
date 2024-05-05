@@ -13,19 +13,19 @@ function Navbar() {
           <Link className='navbar__link relative' href='/Collection'>
             COLLECTIONS
           </Link>
-          <Link className='navbar__link relative' href='#'>
+          <Link className='navbar__link relative' href='/Pens'>
             PENS/PENCILS
           </Link>
-          <Link className='navbar__link relative' href='#'>
+          <Link className='navbar__link relative' href='/Notebooks'>
             NOTEBOOKS
           </Link>
-          <Link className='navbar__link relative' href='#'>
+          <Link className='navbar__link relative' href='/Pouches'>
             POUCHES
           </Link>
-          <Link className='navbar__link relative' href='#'>
+          <Link className='navbar__link relative' href='/Journaling'>
             JOURNALING ESSENTIALS
           </Link>
-          <Link className='navbar__link relative text-red-700' href='#'>
+          <Link className='navbar__link relative text-red-700' href='/Sale'>
             SALE
           </Link>
         </div>

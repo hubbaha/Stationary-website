@@ -10,8 +10,8 @@ const Productdata =[
     },
     {
         img:"/images/P6.webp",
-        title:"Cute Lead Pencil",
-        desc:"Pencil",
+        title:"Dear Annie ",
+        desc:" Lead Pencil",
         price:"200",
     },
     {

@@ -7,20 +7,13 @@ function page() {
   return (
     <div>
       <div className='h-[350px] '>
-      <Bgimage></Bgimage>
-      <Newproducts></Newproducts>
-      <AboutUs></AboutUs>
+       <Bgimage></Bgimage>
+       <Newproducts></Newproducts>
+       <AboutUs></AboutUs>
+       
 
-      </div>
-      
-    
-  
-      
+      </div>  
     </div>
-    
-
-     
-    
   )
 }
 
