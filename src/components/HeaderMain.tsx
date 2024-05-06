@@ -3,6 +3,7 @@ import { PiBugBeetleDuotone } from "react-icons/pi";
 import { BiUser } from 'react-icons/bi';
 import { FiHeart } from 'react-icons/fi';
 import { HiOutlineShoppingBag } from 'react-icons/hi';
+import Link from 'next/link';
 
 
 
@@ -19,14 +20,14 @@ function HeaderMain() {
             type="text" 
             placeholder='Enter any product name...' />
            </div>
-           <div className='hidden lg:flex gap-2 text-gray-500 text-[25px]'>
+           <Link className='hidden lg:flex gap-2 text-gray-500 text-[25px]' href='/Signup'>
             <BiUser/>
             <div className='relative'>
                 <HiOutlineShoppingBag/>
                 <div className='bg-red-600 rounded-full absolute top-0 right-0 w-[10px] h-[10px] text-[7px] text-white
                 grid place-items-center '>0</div>
             </div>
-           </div>
+           </Link>
         </div>
        
     </div>
